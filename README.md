@@ -1,2 +1,2 @@
 # OGLEngine
-shitty, unorganized and simple game endinge
+Deprecated project.
